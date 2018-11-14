@@ -1,0 +1,128 @@
+[
+  {
+    "type": "coffee",
+    "name": "ドリップコーヒー",
+    "selectable_temperature": true,
+    "default_temperature": "hot",
+    "topping_ids": [0, 5, 6]
+  },
+  {
+    "type": "coffee",
+    "name": "カフェミスト",
+    "selectable_temperature": true,
+    "default_temperature": "hot",
+    "topping_ids": [0, 5, 6]
+  },
+  {
+    "type": "coffee",
+    "name": "スターバックスラテ",
+    "selectable_temperature": true,
+    "default_temperature": "hot",
+    "topping_ids": [0, 4, 5, 6]
+  },
+  {
+    "type": "coffee",
+    "name": "カプチーノ",
+    "selectable_temperature": true,
+    "default_temperature": "hot",
+    "topping_ids": [0, 4, 5, 6]
+  },
+  {
+    "type": "coffee",
+    "name": "カフェモカ",
+    "selectable_temperature": true,
+    "default_temperature": "hot",
+    "topping_ids": [0, 1, 5, 6, 10]
+  },
+  {
+    "type": "coffee",
+    "name": "ホワイトモカ",
+    "selectable_temperature": true,
+    "default_temperature": "hot",
+    "topping_ids": [0, 1, 5, 6, 10]
+  },
+  {
+    "type": "coffee",
+    "name": "キャラメルマキアート",
+    "selectable_temperature": true,
+    "default_temperature": "hot",
+    "topping_ids": [0, 1, 5, 6, 10]
+  },
+  {
+    "type": "coffee",
+    "name": "カフェアメリカーノ",
+    "selectable_temperature": true,
+    "default_temperature": "hot",
+    "topping_ids": [0, 3, 5, 6]
+  },
+  {
+    "type": "coffee",
+    "name": "ココア",
+    "selectable_temperature": true,
+    "default_temperature": "hot",
+    "topping_ids": [0, 1, 5, 6, 10]
+  },
+  {
+    "type": "coffee",
+    "name": "キャラメルスチーマー",
+    "selectable_temperature": true,
+    "default_temperature": "hot",
+    "topping_ids": [0, 5, 6, 10]
+  },
+  {
+    "type": "coffee",
+    "name": "ソロ",
+    "selectable_temperature": true,
+    "default_temperature": "hot",
+    "topping_ids": [0, 5, 6]
+  },
+  {
+    "type": "coffee",
+    "name": "ドピオ",
+    "selectable_temperature": true,
+    "default_temperature": "hot",
+    "topping_ids": [0, 5, 6]
+  },
+  {
+    "type": "coffee",
+    "name": "スターバックス　ラテ",
+    "selectable_temperature": true,
+    "default_temperature": "hot",
+    "topping_ids": [0, 4, 5, 6]
+  },
+  {
+    "type": "coffee",
+    "name": "エスプレッソマキアート",
+    "selectable_temperature": true,
+    "default_temperature": "hot",
+    "topping_ids": [0, 4, 5, 6]
+  },
+  {
+    "type": "coffee",
+    "name": "エスプレッソコンパナ",
+    "selectable_temperature": true,
+    "default_temperature": "hot",
+    "topping_ids": [0, 1, 5, 6]
+  },
+  {
+    "type": "frappuccino",
+    "name": "ダーク モカ チップ クリーム フラペチーノ",
+    "selectable_temperature": true,
+    "default_temperature": "hot",
+    "topping_ids": [5, 6, 8]
+  },
+  {
+    "type": "tea",
+    "name": "アイスティー(ブラック)",
+    "selectable_temperature": true,
+    "default_temperature": "ice",
+    "topping_ids": [2, 5, 6]
+  },
+  {
+    "type": "others",
+    "name": "",
+    "selectable_temperature": true,
+    "default_temperature": "hot",
+    "topping_ids": [5, 6]
+  }
+]
