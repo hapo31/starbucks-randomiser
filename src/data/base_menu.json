@@ -1,17 +1,37 @@
 [
   {
-    "type": "latte",
-    "name": "",
-    "topping_ids": ""
+    "type": "coffee",
+    "name": "ドリップコーヒー",
+    "selectable_temperature": false,
+    "default_temperature": "hot",
+    "topping_ids": [0, 5, 6]
   },
   {
-    "type": "moca",
-    "name": "",
-    "topping_ids": ""
+    "type": "espresso",
+    "name": "スターバックス　ラテ",
+    "selectable_temperature": true,
+    "default_temperature": "hot",
+    "topping_ids": [0, 4, 5, 6]
   },
   {
     "type": "frappuccino",
+    "name": "ダーク モカ チップ クリーム フラペチーノ",
+    "selectable_temperature": true,
+    "default_temperature": "hot",
+    "topping_ids": [5, 6]
+  },
+  {
+    "type": "tea",
+    "name": "アイスティー(ブラック)",
+    "selectable_temperature": true,
+    "default_temperature": "ice",
+    "topping_ids": [2, 5, 6]
+  },
+  {
+    "type": "others",
     "name": "",
-    "topping_ids": ""
+    "selectable_temperature": true,
+    "default_temperature": "hot",
+    "topping_ids": [5, 6]
   }
 ]
