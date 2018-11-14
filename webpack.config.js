@@ -10,7 +10,7 @@ const outputPath = isDev
 const plugins = [
   new CopyWebpackPlugin([
     {
-      from: path.join(__dirname, "assets/manifest.json")
+      from: path.join(__dirname, "src/data/*.json")
     }
   ])
 ];
