@@ -9,6 +9,9 @@ const plugins = [
   new CopyWebpackPlugin([
     {
       from: path.join(__dirname, "src/data/*.json")
+    },
+    {
+      from: path.join(__dirname, "assets/index.html")
     }
   ])
 ];
