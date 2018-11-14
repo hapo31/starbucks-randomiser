@@ -3,9 +3,7 @@ const path = require("path");
 
 const isDev = process.env.NODE_ENV !== "production";
 
-const outputPath = isDev
-  ? path.join(__dirname, "debug")
-  : path.join(__dirname, "extension");
+const outputPath = path.join(__dirname, "dist");
 
 const plugins = [
   new CopyWebpackPlugin([
